@@ -1,0 +1,10 @@
+tiktoken
+networkx
+erniebot
+langchain
+pandas
+neo4j
+tqdm
+zhipuai
+pdfplumber
+milvus[client]

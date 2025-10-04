@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-14">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="3" title="description" type="string" />
+      <attribute id="4" title="source_id" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+      <attribute id="1" title="description" type="string" />
+      <attribute id="2" title="source_id" type="string" />
+    </attributes>
+    <nodes>
+      <node id="中国" label="中国">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="中国是近现代史的主体，经历了从1840年鸦片战争到1949年中华人民共和国成立的近代史，以及之后的现代史。中国人民在此期间为救亡图存和实现中华民族伟大复兴进行了英勇奋斗和艰辛探索&gt;" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="中华人民共和国" label="中华人民共和国">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="中华人民共和国是在1949年成立的国家，标志着中国现代史的开始，是由中国共产党领导下的全国各族人民经过斗争赢得的民族独立和人民解放的成果&gt;" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="中国共产党" label="中国共产党">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="中国共产党是领导全国各族人民进行斗争，赢得民族独立、人民解放，建立中华人民共和国的政党&gt;" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="中国近代史" label="中国近代史">
+        <attvalues>
+          <attvalue for="0" value="时期" />
+          <attvalue for="1" value="中国近代史是指从1840年鸦片战争爆发到1949年中华人民共和国成立前夕的历史&gt;" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="中国现代史" label="中国现代史">
+        <attvalues>
+          <attvalue for="0" value="时期" />
+          <attvalue for="1" value="中国现代史是指1949年中华人民共和国成立以来的历史&gt;" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="鸦片战争" label="鸦片战争">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="中国" target="中华人民共和国" id="0" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="国家与成立实体" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="鸦片战争" id="1" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="战争发生地" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="中国近代史" id="2" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="历史时期" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="中国现代史" id="3" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="历史时期" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="中华人民共和国" target="中国共产党" id="4" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="领导与被领导" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="中国近代史" target="中国现代史" id="5" weight="1.0">
+        <attvalues>
+          <attvalue for="3" value="时间顺序" />
+          <attvalue for="4" value="0" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

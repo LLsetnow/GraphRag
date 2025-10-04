@@ -1,0 +1,2136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-13">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="4" title="description" type="string" />
+      <attribute id="5" title="source_id" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+      <attribute id="1" title="description" type="string" />
+      <attribute id="2" title="source_id" type="string" />
+      <attribute id="3" title="entity_type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="中国" label="中国">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="中国是鸦片战争的发生地，英军在此进行了多场战斗&gt;&#10;中国是中华民族的祖国，经历了反帝反封建的斗争，以及从五四运动到中华人民共和国成立的历史过程。&gt;&#10;中国是文章描述的历史事件和革命活动的发生地，经历了不同的政治阶段和社会形态&gt;&#10;中国是经历了封建统治、外国资本-帝国主义侵略、新民主主义革命等多个历史阶段，最终在中国共产党的领导下走上社会主义道路的国家。&gt;&#10;中国是社会主义基本制度落地生根的地方，经历了社会主义改造和建设，实现了广泛的社会变革，并进入了改革开放和社会主义现代化建设新时期，以及中国特色社会主义新时代。&gt;&#10;中国是一个文明古国，具有五千多年连绵不断的文明历史，创造了博大精深的中华文化。中国经历了封建王朝、鸦片战争、不平等条约等一系列历史事件，逐步发展成为现代的社会主义国家&gt;&#10;中国是亚洲的一个国家，在鸦片战争中受到了英国的侵略，面临生存危机。中国曾实施禁鸦片措施，林则徐在1839年6月在广东虎门销毁所收缴的鸦片。&gt;&#10;中国在文本中指的是一个国家，经历了从独立到半殖民地半封建社会的转变，遭受了外国资本-帝国主义的入侵和封建主义的压迫，中国人民为此进行了反帝反封建的革命斗争。&gt;&#10;中国是特色社会主义新时代的所在地，也是中华民族伟大复兴的所在地。&gt;&#10;中国位于亚洲东部，土地广阔，人口众多，具有悠久的文明历史。中国是世界上少有的历史文化从未间断、一直延续至今的国家。中国的经济发展和科学技术长期处于世界领先地位。中国产生了许多杰出的政治家、军事家、思想家、教育家、科学家、文学家和艺术家，还产生了很多民族英雄和革命领袖。中国封建社会的经济中，封建地主土地所有制经济占主导地位。中国的封建社会前后延续了两千多年。&gt;&#10;中国是一个国家，在文中描述为经历了半殖民地半封建社会的历史，受到外国资本和本国封建主义的压迫&gt;&#10;中国是亚洲的一个国家，历史上曾遭受外国侵略者的侵略和压迫&gt;&#10;中国在鸦片战争后逐步变成了半殖民地半封建社会&gt;&#10;中国经历了新民主主义革命，推翻了帝国主义、封建主义、官僚资本主义三座大山，建立了中华人民共和国，实现了民族独立、人民解放。新中国成立后，全国各族人民在中国共产党的领导下，为实现中华民族伟大复兴开辟了新纪元的历史。&gt;&#10;中国是近代半殖民地半封建社会，面临复杂的矛盾，包括与资本－帝国主义的矛盾，农民阶级与地主阶级的矛盾等&gt;" />
+          <attvalue for="2" value="11,0,2,12,5,6,14,16,17,1,3,8,4,13,7" />
+          <attvalue for="3" value="地点" />
+        </attvalues>
+      </node>
+      <node id="中国共产党" label="中国共产党">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="中国共产党是团结带领中国人民，创造了新时代中国特色社会主义伟大成就的组织。它坚持和加强党的全面领导，统筹推进五位一体总体布局、协调推进四个全面战略布局，为实现中华民族伟大复兴提供了更为完善的制度保证。&gt;&#10;中国共产党是领导中国人民走上社会主义道路，实现新中国建立和发展的核心力量。&gt;&#10;中国共产党一经成立，就把实现共产主义作为党的最高理想和最终目标，义无反顾肩负起实现中华民族伟大复兴的历史使命。100来年，中国共产党把马克思主义基本原理同中国实际和时代特征相结合，团结带领全国各族人民取得革命、建设、改革的伟大胜利，开创和发展了中国特色社会主义&gt;&#10;中国共产党是主主义革命时期的领导力量，应运而生并团结带领中国人民进行奋斗、牺牲和创造，以实现中华民族伟大复兴为基本目标&gt;&#10;中国共产党领导了中国的社会主义改造、建设和改革开放，为实现中华民族伟大复兴而团结带领中国人民，创造了伟大的成就。&gt;&#10;中国共产党是在共产国际的帮助下创建和发展的，成为中国新民主主义革命的领导力量。&gt;&#10;中国共产党成为执掌全国政权的执政党，肩负着实现国家富强、人民幸福的历史任务。它团结带领中国人民，自力更生、发愤图强，创造了社会主义革命、建设和改革的伟大成就。&gt;" />
+          <attvalue for="2" value="0,2,5,6,3,4,7" />
+          <attvalue for="3" value="组织" />
+        </attvalues>
+      </node>
+      <node id="中华文明" label="中华文明">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="中华民族具有五千多年连绵不断的文明历史，创造了博大精深的中华文化，为人类文明进步作出了不可磨灭的贡献&gt;" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="清朝" label="清朝">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="清朝是中国的最后一个封建王朝，其统治者夜郎自大、自我封闭，拒绝扩大与外国交往&gt;" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="英国" label="英国">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="英国通过发动侵略战争，强迫中国签订不平等条约&gt;&#10;英国是发动侵略中国的鸦片战争的国家，与中国签订了不平等条约&gt;&#10;1640年的英国资产阶级革命&gt;&#10;英国是世界资本主义最强的国家之一，19世纪初已完成工业革命，建立了号称“日不落”的殖民大帝国。英国对中国发动了鸦片战争，并长期向中国走私鸦片。&gt;" />
+          <attvalue for="2" value="10,11,0,13" />
+          <attvalue for="3" value="地点" />
+        </attvalues>
+      </node>
+      <node id="中国现代史" label="中国现代史">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="中国现代史是指1949年中华人民共和国成立以来的历史&gt;" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="中国人民" label="中国人民">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="中国人民在中国共产党的带领下，自信自强、守正创新，为实现中华民族伟大复兴而奋斗。&gt;&#10;中国人民在中国近现代史中为救亡图存和实现中华民族伟大复兴而英勇奋斗&gt;&#10;中国人民在中国共产党的领导下，经历了社会主义改造、建设和改革开放，实现了广泛的社会变革，为中华民族的伟大复兴而奋斗。&gt;&#10;中国人民指的是中国的普通民众，历史上曾遭受外国侵略者和封建统治者的压迫&gt;&#10;中国人民是文章描述的主体之一，经历了主主义革命时期，遭受了帝国主义、封建主义和官僚资本主义的压迫，最终在中国共产党的领导下实现了民族独立和解放&gt;&#10;中国人民是中华民族的一部分，为实现中国梦、争取民族独立、人民解放以及进行现代化建设而努力。&gt;&#10;中国人民在中国共产党的领导下，经历了北伐战争、土地革命战争、抗日战争、解放战争，推翻了帝国主义、封建主义、官僚资本主义三座大山，建立了中华人民共和国，实现了民族独立、人民解放，为实现国家富强、人民幸福的历史任务开辟了道路。&gt;&#10;中国人民在文本中指的是中国的广大民众，他们面对苦难，奋起抗争，以百折不挠的精神进行反帝反封建的革命斗争，为实现民族独立、人民解放和国家富强、人民幸福而奋斗。&gt;" />
+          <attvalue for="2" value="0,2,5,6,17,1,3,4" />
+          <attvalue for="3" value="人名" />
+        </attvalues>
+      </node>
+      <node id="五四运动" label="五四运动">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="五四运动是中国近代史的一个重要事件，标志着中国新民主主义革命的开端&gt;" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="《南京条约》" label="《南京条约》">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="《南京条约》是清政府与英国签订的中国近代史上第一个不平等条约&gt;" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="中国近代史" label="中国近代史">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="0" />
+        </attvalues>
+      </node>
+      <node id="中国近现代史" label="中国近现代史">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="&#10;中国近现代史是高等学校本科生必修的一门思想政治理论课，通过学习可以了解中国社会发展和革命、建设、改革的历史进程。&gt;" />
+          <attvalue for="2" value="0,6" />
+          <attvalue for="3" value="组织" />
+        </attvalues>
+      </node>
+      <node id="中华人民共和国" label="中华人民共和国">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="中华人民共和国成立于1949年&gt;&#10;中华人民共和国的成立，标志着中国进入了一个新的历史时期，为中国的发展奠定了基础。&gt;&#10;中华人民共和国在文本中指的是1949年成立的国家，标志着中国从半殖民地半封建社会走向新的历史阶段。&gt;&#10;中华人民共和国是工人阶级领导的以工农联盟为基础的人民民主专政的国家，是新中国的国体。它的建立宣告中国人民当家作主时代的到来，中华民族以崭新的姿态屹立于世界民族之林。&gt;" />
+          <attvalue for="2" value="1,4,13,5" />
+          <attvalue for="3" value="组织" />
+        </attvalues>
+      </node>
+      <node id="帝国主义" label="帝国主义">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="帝国主义在文本中指的是一种资本主义的高级阶段，涵盖自由竞争阶段的资本主义和垄断阶段的资本主义，这些国家侵略过中国，与中国封建主义势力相结合，使中国成为半殖民地半封建社会。&gt;" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="中华民族" label="中华民族">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="中华民族是代表中国各民族的共同体，与资本－帝国主义存在主要矛盾&gt;&#10;中华民族在文本中指的是中国的人民整体，他们面对外国资本-帝国主义和本国封建主义的联合压迫，奋起抗争，为实现民族独立、人民解放和国家富强、人民幸福而奋斗。&gt;&#10;中华民族具有悠久的文明历史，是世界上少有的历史文化从未间断、一直延续至今的“民族”。中华民族体现了凝聚力和以爱国主义为核心的民族精神。中华民族是一个有着优良传统的民族，中华优秀传统文化是中华儿女共同的精神基因，也是中华民族发展壮大的强大精神力量。中华大地上的各民族对统一的多民族国家的形成、发展，都作出了贡献。&gt;&#10;中华民族是中国人民的集合体，拥有伟大的梦想即中华民族伟大复兴的中国梦，经历了反帝反封建的斗争。&gt;&#10;中华民族是文章描述的主体之一，与中国人民紧密相关，共同经历了历史的变革和发展&gt;&#10;中华民族是经历了深重苦难，但在中国共产党的领导下实现民族独立、人民解放和国家富强、人民幸福的民族。&gt;" />
+          <attvalue for="2" value="2,16,1,3,8,7" />
+          <attvalue for="3" value="组织" />
+        </attvalues>
+      </node>
+      <node id="农民阶级" label="农民阶级">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="农民阶级是从事农业生产的阶级，与地主阶级存在矛盾&gt;&#10;农民阶级在文本中指的是中国封建社会中的一个阶级，随着近代中国社会性质的改变，其地位也发生了变化，并与地主阶级之间存在矛盾。&gt;&#10;农民阶级是近代中国社会人数最多的被剥削阶级，不少自耕农失去土地，向贫农或雇农转化，有些农民破产或失去土地后流入城市，成为产业工人的后备军，具有强烈的革命要求，是中国民主革命的主力军。&gt;" />
+          <attvalue for="2" value="16,15,1" />
+          <attvalue for="3" value="组织" />
+        </attvalues>
+      </node>
+      <node id="工人阶级" label="工人阶级">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="工人阶级在文本中指的是近代中国新兴的一个阶级，是近代中国最革命的阶级，对于反帝反封建的革命斗争起到了重要作用。&gt;&#10;工人阶级是近代中国诞生的新兴的被压迫阶级，主要来源于城乡破产失业的农民、手工业者和城市贫民，身受帝国主义、封建势力、资产阶级三重压迫，是中国新生产力的代表，是近代中国最革命的阶级。&gt;" />
+          <attvalue for="2" value="15,1" />
+          <attvalue for="3" value="人名" />
+        </attvalues>
+      </node>
+      <node id="资产阶级" label="资产阶级">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="资产阶级是拥有资本的阶级，与地主阶级、无产阶级存在矛盾&gt;&#10;资产阶级在文本中指的是近代中国产生的一个新的阶级，与工人阶级、小资产阶级等共同构成了近代中国的社会阶级关系。&gt;" />
+          <attvalue for="2" value="16,1" />
+          <attvalue for="3" value="组织" />
+        </attvalues>
+      </node>
+      <node id="小资产阶级" label="小资产阶级">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="小资产阶级在文本中指的是近代中国产生的一个新的阶级，与工人阶级、资产阶级等共同构成了近代中国的社会阶级关系。&gt;" />
+          <attvalue for="2" value="1" />
+        </attvalues>
+      </node>
+      <node id="地主阶级" label="地主阶级">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="&#10;地主阶级是拥有土地的阶级，与农民阶级、资产阶级存在矛盾&gt;&#10;地主阶级是旧的封建统治阶级，继续占有大量土地，掌握国家政权，对人民实行专制统治&gt;" />
+          <attvalue for="2" value="16,1,14" />
+          <attvalue for="3" value="组织" />
+        </attvalues>
+      </node>
+      <node id="《毛泽东文集》" label="《毛泽东文集》">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="《毛泽东文集》是包含毛泽东著作的文集，第八卷于1999年由人民出版社出版。&gt;" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="人民出版社" label="人民出版社">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="人民出版社是出版《毛泽东文集》的出版机构。&gt;" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="共产国际" label="共产国际">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="共产国际是1919年3月由列宁领导成立的国际组织，积极帮助包括中国在内的一些国家建立共产党。&gt;" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="新民主主义革命" label="新民主主义革命">
+        <attvalues>
+          <attvalue for="0" value="事件" />
+          <attvalue for="1" value="新民主主义革命是取代旧民主主义革命的历史阶段，是中国共产党领导中国人民进行的重要革命。&gt;&#10;新民主主义革命是五四运动后的革命时期，中国人民和中华民族的伟大觉醒中，中国工人阶级及其政党成为民主革命的领导力量。&gt;" />
+          <attvalue for="2" value="2,7" />
+          <attvalue for="3" value="组织" />
+        </attvalues>
+      </node>
+      <node id="1919年3月" label="1919年3月">
+        <attvalues>
+          <attvalue for="0" value="时间" />
+          <attvalue for="1" value="1919年3月是共产国际成立的时间。&gt;" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="俄国社会主义革命" label="俄国社会主义革命">
+        <attvalues>
+          <attvalue for="0" value="事件" />
+          <attvalue for="1" value="俄国社会主义革命是1917年11月7日（俄历10月25日）爆发的，开辟了人类历史的新纪元，给中国送来了马克思列宁主义。&gt;" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="马克思列宁主义" label="马克思列宁主义">
+        <attvalues>
+          <attvalue for="0" value="理论" />
+          <attvalue for="1" value="马克思列宁主义是俄国社会主义革命后给中国送来的理论，对中国反帝反封建的民主革命产生了深远影响。&gt;" />
+          <attvalue for="2" value="2" />
+        </attvalues>
+      </node>
+      <node id="封建主义" label="封建主义">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="封建主义是压迫中国人民的力量之一，与中国人民存在对立关系&gt;" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="官僚资本主义" label="官僚资本主义">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="官僚资本主义是后来增加的压迫中国人民的力量，与中国人民存在对立关系&gt;" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="北洋军阀" label="北洋军阀">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="北洋军阀曾代表第一种建国方案，主张实行大地主大资产阶级专政&gt;" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="国民党统治集团" label="国民党统治集团">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="国民党统治集团后来代表第一种建国方案，主张实行大地主大资产阶级专政&gt;" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="某些中间派别或中间人士" label="某些中间派别或中间人士">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="某些中间派别或中间人士代表第二种建国方案，主张建立资产阶级共和国&gt;" />
+          <attvalue for="2" value="3" />
+        </attvalues>
+      </node>
+      <node id="毛泽东" label="毛泽东">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="4" />
+        </attvalues>
+      </node>
+      <node id="社会主义基本制度" label="社会主义基本制度">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="5" />
+        </attvalues>
+      </node>
+      <node id="新时代中国特色社会主义" label="新时代中国特色社会主义">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="&#10;新时代中国特色社会主义是具有伟大成就和重大意义的历史阶段，是实现中华民族伟大复兴的必由之路。&gt;" />
+          <attvalue for="2" value="7,6" />
+          <attvalue for="3" value="组织" />
+        </attvalues>
+      </node>
+      <node id="大学生" label="大学生">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="6" />
+        </attvalues>
+      </node>
+      <node id="马克思主义" label="马克思主义">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="马克思主义是被历史和人民选择的一种思想理论体系。&gt;" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="社会主义道路" label="社会主义道路">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="社会主义道路是被历史和人民选择的中国发展道路。&gt;" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="资产阶级共和国" label="资产阶级共和国">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="资产阶级共和国是被人民共和国取代的历史政体形式。&gt;" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="人民共和国" label="人民共和国">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="人民共和国是取代资产阶级共和国的历史政体形式，标志着中国走上了社会主义道路。&gt;" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="外国资本－帝国主义" label="外国资本－帝国主义">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="外国资本－帝国主义是同中国封建势力给中国人民和中华民族带来深重苦难的历史力量。&gt;" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="中国封建势力" label="中国封建势力">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="中国封建势力是与外国资本－帝国主义一起给中国人民和中华民族带来深重苦难的历史力量。&gt;" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="中国先进分子" label="中国先进分子">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="中国先进分子是近代以来为救亡图存而进行艰辛探索、顽强奋斗的重要力量。&gt;" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="红色政权" label="红色政权">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="红色政权是来之不易的历史成果，是中国共产党领导中国人民通过艰苦斗争建立起来的。&gt;" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="毛泽东思想" label="毛泽东思想">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="毛泽东思想是马克思主义中国化的重要理论成果，对中国历史发展产生了深远影响。&gt;" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="邓小平理论" label="邓小平理论">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="邓小平理论是马克思主义中国化的重要理论成果，对中国改革开放和现代化建设起到了指导作用。&gt;" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="“三个代表”重要思想" label="“三个代表”重要思想">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="“三个代表”重要思想是马克思主义中国化的重要理论成果，强调了中国共产党要始终代表中国先进生产力的发展要求、代表中国先进文化的前进方向、代表中国最广大人民的根本利益。&gt;" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="科学发展观" label="科学发展观">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="科学发展观是马克思主义中国化的重要理论成果，提出了以人为本、全面协调可持续发展的理念。&gt;" />
+          <attvalue for="2" value="7" />
+        </attvalues>
+      </node>
+      <node id="长江流域" label="长江流域">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="长江流域是中国古代文明的发源地之一，约在五千年以前，该地区已经出现早期文明社会的要素。&gt;" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="黄帝" label="黄帝">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="黄帝是四千多年前的中国古代传说中的帝王，是中华民族的始祖之一。&gt;" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="炎帝" label="炎帝">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="炎帝是四千多年前的中国古代传说中的帝王，是中华民族的始祖之一。&gt;" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="尧" label="尧">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="尧是四千多年前的中国古代传说中的帝王，以其贤明和禅让制度闻名。&gt;" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="舜" label="舜">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="舜是四千多年前的中国古代传说中的帝王，以其孝道和治理能力著称。&gt;" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="禹" label="禹">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="禹是四千多年前的中国古代传说中的帝王，因治水有功而被尊为大禹。&gt;" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="秦始皇" label="秦始皇">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="秦始皇是公元前221年建立中国历史上第一个统一的多民族国家的皇帝。&gt;" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="黄河流域" label="黄河流域">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="8" />
+        </attvalues>
+      </node>
+      <node id="中国封建社会" label="中国封建社会">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="中国封建社会是以个体家庭为单位并与家庭手工业牢固结合的小农经济为基本生产结构的社会，自给自足的自然经济占主要地位。政治的基本特征是实行高度中央集权的封建君主专制制度。经济、政治、文化、社会结构一方面巩固和维系了封建社会的稳定和延续，另一方面也使其前进缓慢甚至迟滞，并造成不可克服的周期性的政治经济危机。&gt;" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="农民" label="农民">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="农民是封建生产关系中被剥削的阶层，受到地主的压迫&gt;&#10;在中国封建社会中，农民没有任何政治权利，生活极端贫困，常受到地主、商人、高利贷者的压迫，并被封建政权征收各种苛捐杂税和摊派摇役。&gt;" />
+          <attvalue for="2" value="9,14" />
+          <attvalue for="3" value="人物" />
+        </attvalues>
+      </node>
+      <node id="儒家" label="儒家">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="儒家是中国封建社会的正统思想，与佛教、道教相互吸收、融合，共同为维护封建统治服务。&gt;" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="地主" label="地主">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="在中国封建社会中，地主是与农民、商人、高利贷者相结合的一部分，常常对农民进行压迫。&gt;" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="商人" label="商人">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="在中国封建社会中，商人是与地主、高利贷者相结合的一部分，常常对农民进行压迫。&gt;" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="高利贷者" label="高利贷者">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="在中国封建社会中，高利贷者是与地主、商人相结合的一部分，常常对农民进行压迫。&gt;" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="和珅" label="和珅">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="和珅是乾隆年间权倾一时的大学士，拥有土地多万亩。&gt;" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="琦善" label="琦善">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="琦善是道光年间大学士，占有土地256万多亩。&gt;&#10;大学士琦善更占有土地80256万多亩&gt;" />
+          <attvalue for="2" value="10,9" />
+          <attvalue for="3" value="人名" />
+        </attvalues>
+      </node>
+      <node id="康熙" label="康熙">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="康熙是清代的皇帝，其在位期间是中国封建社会后期的鼎盛时期之一。&gt;" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="雍正" label="雍正">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="雍正是清代的皇帝，其在位期间是中国封建社会后期的鼎盛时期之一。&gt;" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="乾隆" label="乾隆">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="乾隆是清代的皇帝，其在位期间是中国封建社会后期的鼎盛时期之一，但同时也开始走向了封建社会的未世。&gt;" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="嘉庆" label="嘉庆">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="嘉庆是清代的皇帝，其在位期间清王朝衰相尽显，潜伏着许多危机。&gt;" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="道光" label="道光">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="道光是清代的皇帝，其在位期间清王朝衰相尽显，潜伏着许多危机。&gt;" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="汉武帝" label="汉武帝">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="汉武帝确立了独尊儒术的政策，使得儒家思想开始成为中国封建社会的正统思想。&gt;" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="文景之治" label="文景之治">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="文景之治是汉代的一个盛世，当时的君主吸取历史的教训，能居安思危，政治较清明，轻摇薄赋，励精图治。&gt;" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="贞观之治" label="贞观之治">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="贞观之治是唐代的一个盛世，当时的君主吸取历史的教训，能居安思危，政治较清明，轻摇薄赋，励精图治。&gt;" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="开元盛世" label="开元盛世">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="开元盛世是唐代的一个盛世，当时的君主吸取历史的教训，能居安思危，政治较清明，轻摇薄赋，励精图治。&gt;" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="康乾盛世" label="康乾盛世">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="康乾盛世是清代的一个盛世，当时的君主吸取历史的教训，能居安思危，政治较清明，轻摇薄赋，励精图治。&gt;" />
+          <attvalue for="2" value="9" />
+        </attvalues>
+      </node>
+      <node id="清" label="清">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="清政府在1656年实行海禁&gt;" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="广州" label="广州">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="清政府在广州等四口通商&gt;" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="漳州" label="漳州">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="清政府在广州、漳州、宁波、云台山等四口通商&gt;" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="宁波" label="宁波">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="清政府在广州、漳州、宁波、云台山等四口通商&gt;" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="云台山" label="云台山">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="清政府在广州、漳州、宁波、云台山（今连云港附近）等四口通商&gt;" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="连云港" label="连云港">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="云台山位于连云港附近&gt;" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="欧洲" label="欧洲">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="工业革命在欧洲爆发&gt;" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="美国" label="美国">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="美国在1844年与中国签订了《望厦条约》&gt;&#10;继英国之后，美国通过资产阶级革命&gt;" />
+          <attvalue for="2" value="10,13" />
+          <attvalue for="3" value="地点" />
+        </attvalues>
+      </node>
+      <node id="法国" label="法国">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="法国在1844年与中国签订了《黄埔条约》&gt;&#10;继英国之后，法国通过资产阶级革命&gt;" />
+          <attvalue for="2" value="10,13" />
+          <attvalue for="3" value="地点" />
+        </attvalues>
+      </node>
+      <node id="伦敦" label="伦敦">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="19世纪初，伦敦成为资本主义世界的工业中心&gt;" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="曼彻斯特" label="曼彻斯特">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="曼彻斯特成为世界的纺织中心&gt;" />
+          <attvalue for="2" value="10" />
+        </attvalues>
+      </node>
+      <node id="林则徐" label="林则徐">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="林则徐是清朝的钦差大臣，于1839年6月在广东虎门销毁所收缴的鸦片，是维护国家利益和民族尊严的正义行动。&gt;&#10;林则徐是因鸦片战争被道光帝撤职查办的人&gt;" />
+          <attvalue for="2" value="11,12" />
+          <attvalue for="3" value="人名" />
+        </attvalues>
+      </node>
+      <node id="东印度公司" label="东印度公司">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="东印度公司是英国的一个组织，曾建议对中国发动战争，并提出具体的作战方案和所需的兵力及时间、路线等。该公司还垄断了鸦片的收购、加工和走私到中国贩卖。&gt;" />
+          <attvalue for="2" value="11" />
+        </attvalues>
+      </node>
+      <node id="林德赛" label="林德赛">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="林德赛是东印度公司的高级职员，曾致函英国外交大臣巴麦斯顿子爵，建议对中国发动战争。&gt;" />
+          <attvalue for="2" value="11" />
+        </attvalues>
+      </node>
+      <node id="巴麦斯顿子爵" label="巴麦斯顿子爵">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="巴麦斯顿子爵是英国的外交大臣，收到了林德赛关于对中国发动战争的建议。&gt;" />
+          <attvalue for="2" value="11" />
+        </attvalues>
+      </node>
+      <node id="鸦片战争" label="鸦片战争">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="11" />
+        </attvalues>
+      </node>
+      <node id="英国国会" label="英国国会">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="英国国会是通过对华战争决定的机构&gt;" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="英国侵华舰队" label="英国侵华舰队">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="英国侵华舰队是从印度等地陆续到达中国海面，封锁了珠江入海口和广东海面，并引发了鸦片战争&gt;" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="珠江入海口" label="珠江入海口">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="珠江入海口被英国侵华舰队封锁&gt;" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="广东海面" label="广东海面">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="广东海面是英军初到中国时的主要活动区域&gt;" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="厦门" label="厦门">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="厦门是英军攻击的目标之一，但未攻下&gt;" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="浙江" label="浙江">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="浙江是英军北上后的攻击目标，攻陷了定海等地&gt;" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="定海" label="定海">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="定海是浙江的一个地方，被英军攻陷&gt;" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="天津海口" label="天津海口">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="天津海口是英军到达并引发清政府恐慌的地方&gt;" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="帝道光" label="帝道光">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="道光帝是清朝的皇帝，对鸦片战争期间的多项决策有直接影响&gt;" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="大角、沙角炮台" label="大角、沙角炮台">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="大角、沙角炮台被英军强占&gt;" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="香港" label="香港">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="香港被英军强占&gt;" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="奕山" label="奕山">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="奕山为黑龙江将军，在1858年与俄国签订《嗳浑条约》&gt;&#10;奕山是被道光帝任命为靖逆将军，与英军作战的人&gt;" />
+          <attvalue for="2" value="12,18" />
+          <attvalue for="3" value="人名" />
+        </attvalues>
+      </node>
+      <node id="虎门炮台" label="虎门炮台">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="虎门炮台是英军猛攻并沦陷的地方&gt;" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="关天培" label="关天培">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="关天培是水师提督，率部顽强抵抗英军，英勇战死&gt;" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="各省军队" label="各省军队">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="各省军队是齐集广州，与英军作战的军队&gt;" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="奕经" label="奕经">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="奕经是被道光帝派为扬威将军，调兵到浙江应战的人&gt;" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="浙江海防重镇乍浦" label="浙江海防重镇乍浦">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="浙江海防重镇乍浦被英军攻陷&gt;" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="吴凇炮台" label="吴凇炮台">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="吴凇炮台是英军集中兵力猛攻的地方&gt;" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="陈化成" label="陈化成">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="陈化成是江南提督，率领守军顽强抵抗英军，英勇牺牲&gt;" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="南京" label="南京">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="南京是英军到达并迫使清政府接受全部要求的地方&gt;" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="耆英" label="耆英">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="耆英是清政府派往浙江与英军议和的人&gt;" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="伊里布" label="伊里布">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="伊里布是与耆英一同被清政府派往与英国签订条约的人&gt;" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="道光帝" label="道光帝">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="清政府" label="清政府">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="清政府在1887年与葡萄牙订立《中葡和好通商条约》，被迫允许葡萄牙永居管理澳门&gt;&#10;清政府在1843年和1844年签订了多个不平等条约&gt;&#10;清政府是中国封建时期的政府，曾与外国侵略者合作镇压太平天国农民起义，签订了一系列不平等条约&gt;&#10;清政府是鸦片战争期间的执政政府，与英国进行了多轮谈判并最终签订了不平等条约&gt;" />
+          <attvalue for="2" value="17,12,18,13" />
+          <attvalue for="3" value="组织" />
+        </attvalues>
+      </node>
+      <node id="广东" label="广东">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="12" />
+        </attvalues>
+      </node>
+      <node id="《望厦条约》" label="《望厦条约》">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="中美在1844年7月签订的条约&gt;" />
+          <attvalue for="2" value="13" />
+        </attvalues>
+      </node>
+      <node id="《黄埔条约》" label="《黄埔条约》">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="中法在1844年10月签订的条约&gt;" />
+          <attvalue for="2" value="13" />
+        </attvalues>
+      </node>
+      <node id="《虎门条约》" label="《虎门条约》">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="13" />
+        </attvalues>
+      </node>
+      <node id="资本－帝国主义" label="资本－帝国主义">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="资本－帝国主义是文中提到的外国侵略势力，逐步操纵了中国的财政和经济命脉，并控制了中国的政治&gt;&#10;资本－帝国主义是指向中国发动侵略战争的外国势力，与中国存在主要的矛盾&gt;" />
+          <attvalue for="2" value="16,14" />
+          <attvalue for="3" value="组织" />
+        </attvalues>
+      </node>
+      <node id="封建势力" label="封建势力">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="封建势力是中国的内部势力，与外国侵略势力勾结，成为压迫中国人民的社会基础和统治支柱&gt;" />
+          <attvalue for="2" value="14" />
+        </attvalues>
+      </node>
+      <node id="民族资本主义经济" label="民族资本主义经济">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="民族资本主义经济是中国新兴的经济形式，但在帝国主义和封建主义的压迫下发展缓慢&gt;" />
+          <attvalue for="2" value="14" />
+        </attvalues>
+      </node>
+      <node id="官僚资本" label="官僚资本">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="官僚资本是依附于外国资本的势力，在中国资本主义经济中居于主要和支配的地位&gt;" />
+          <attvalue for="2" value="14" />
+        </attvalues>
+      </node>
+      <node id="城居地主" label="城居地主">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="城居地主是从乡村迁往城市的地主，一部分将土地剥削获得的货币投资于资本主义工商业，有的转化为资本家，一些城居地主也往往兼营土地、高利贷和工商业。&gt;" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="中国资产阶级" label="中国资产阶级">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="中国资产阶级是近代中国新产生的阶级，主要由一些买办、商人、地主、官僚投资新式企业转化而成，来源不同，构成比较复杂。&gt;" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="官僚买办资本家" label="官僚买办资本家">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="官僚买办资本家是利用政治特权和与外国资本的紧密联系，在剥削劳动人民和挤压民族资本的过程中，逐渐形成和发展起来的中国资产阶级的一部分。&gt;" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="民族资本家" label="民族资本家">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="民族资本家是中国资产阶级的一部分，他们经营的企业大多数规模小、设备落后，发展缓慢，始终未能在中国社会经济中占主要地位，在政治上表现出两面性。&gt;" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="本国封建主义" label="本国封建主义">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="本国封建主义是指中国内部的封建势力，与新兴阶级存在矛盾与斗争。&gt;" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="外国资本主义" label="外国资本主义">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="15" />
+        </attvalues>
+      </node>
+      <node id="人民大众" label="人民大众">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="人民大众是近代中国社会的重要组成部分，与封建主义存在矛盾&gt;" />
+          <attvalue for="2" value="16" />
+        </attvalues>
+      </node>
+      <node id="无产阶级" label="无产阶级">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="无产阶级是不拥有生产资料，依靠出卖劳动力为生的阶级，与资产阶级存在矛盾&gt;" />
+          <attvalue for="2" value="16" />
+        </attvalues>
+      </node>
+      <node id="太平天国" label="太平天国">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="太平天国是中国历史上的一次农民起义，后期被清政府和外国侵略者共同镇压&gt;&#10;太平天国是近代中国的一次农民起义，曾尝试推翻清政府的统治&gt;" />
+          <attvalue for="2" value="16,17" />
+          <attvalue for="3" value="组织" />
+        </attvalues>
+      </node>
+      <node id="义和团" label="义和团">
+        <attvalues>
+          <attvalue for="0" value="组织" />
+          <attvalue for="1" value="义和团是近代中国的一次反帝爱国运动，曾对抗外国侵略者&gt;" />
+          <attvalue for="2" value="16" />
+        </attvalues>
+      </node>
+      <node id="外国侵略者" label="外国侵略者">
+        <attvalues>
+          <attvalue for="0" value="人名" />
+          <attvalue for="1" value="外国侵略者指的是侵略中国的外国军队和势力，曾与中国封建统治者合作镇压太平天国农民起义&gt;" />
+          <attvalue for="2" value="17" />
+        </attvalues>
+      </node>
+      <node id="葡萄牙" label="葡萄牙">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="葡萄牙是欧洲的一个国家，曾武力强占澳门半岛，后迫使清政府订立《中葡和好通商条约》&gt;&#10;葡萄牙在1887年与清政府订立《中葡和好通商条约》，被允许永居管理澳门&gt;" />
+          <attvalue for="2" value="17,18" />
+          <attvalue for="3" value="组织" />
+        </attvalues>
+      </node>
+      <node id="俄国" label="俄国">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="俄国在1858年胁迫黑龙江将军奕山签订《嗳浑条约》，割去黑龙江以北60万平方公里领土&gt;&#10;俄国是欧洲的一个国家，曾利用英、法发动第二次鸦片战争的机会，侵占中国领土&gt;" />
+          <attvalue for="2" value="17,18" />
+          <attvalue for="3" value="组织" />
+        </attvalues>
+      </node>
+      <node id="香港岛" label="香港岛">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="香港岛是中国的一个岛屿，1842年被英国割让&gt;" />
+          <attvalue for="2" value="17" />
+        </attvalues>
+      </node>
+      <node id="九龙半岛南端" label="九龙半岛南端">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="九龙半岛南端是中国的一个地区，1860年被英国割让&gt;" />
+          <attvalue for="2" value="17" />
+        </attvalues>
+      </node>
+      <node id="澳门半岛" label="澳门半岛">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="澳门半岛是中国的一个地区，1849年被葡萄牙武力强占&gt;" />
+          <attvalue for="2" value="17" />
+        </attvalues>
+      </node>
+      <node id="澳门" label="澳门">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="澳门在明末时期就已经有人借居，1887年通过《中葡和好通商条约》被允许由葡萄牙永居管理&gt;" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="黑龙江" label="黑龙江">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="黑龙江在1858年因《嗳浑条约》割去以北60万平方公里领土&gt;" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="乌苏里江" label="乌苏里江">
+        <attvalues>
+          <attvalue for="0" value="地点" />
+          <attvalue for="1" value="乌苏里江在1860年通过中俄《北京条约》被割去以东40万平方公里领土&gt;" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="《嗳浑条约》" label="《嗳浑条约》">
+        <attvalues>
+          <attvalue for="0" value="组织（同上）" />
+          <attvalue for="1" value="该条约是1858年由俄国和清政府签订的，割去黑龙江以北60万平方公里领土&gt;" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="《北京条约》" label="《北京条约》">
+        <attvalues>
+          <attvalue for="0" value="组织（同上）" />
+          <attvalue for="1" value="该条约是1860年中俄签订的，割去乌苏里江以东40万平方公里领土&gt;" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="《勘分西北界约记》" label="《勘分西北界约记》">
+        <attvalues>
+          <attvalue for="0" value="组织（同上）" />
+          <attvalue for="1" value="该条约涉及1864年清政府与某国（未明确提及，但根据上下文可能是俄国）签订，割去中国西北44万平方公里领土&gt;" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="《改订伊犁条约》" label="《改订伊犁条约》">
+        <attvalues>
+          <attvalue for="0" value="组织（同上）" />
+          <attvalue for="1" value="该条约与5个勘界议定书一起，在1881年导致割去某地区（未明确提及，但根据上下文可能是中国的一部分）的领土&gt;" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="《中葡和好通商条约》" label="《中葡和好通商条约》">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+      <node id="（未明确提及）" label="（未明确提及）">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="18" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="中国" target="中国共产党" id="0" weight="5.0">
+        <attvalues>
+          <attvalue for="4" value="所在地与组织&#10;领导国家&#10;执政党&#10;选择&#10;领导" />
+          <attvalue for="5" value="0,5,6,3,7" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="清朝" id="1" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="统治" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="英国" id="2" weight="3.0">
+        <attvalues>
+          <attvalue for="4" value="被侵略国与侵略国关系&#10;战争对手&#10;侵略" />
+          <attvalue for="5" value="11,0,13" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="中国近代史" id="3" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="历史时期" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="中国现代史" id="4" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="历史时期" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="五四运动" id="5" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="历史事件" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="《南京条约》" id="6" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="签订条约" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="中华人民共和国" id="7" weight="3.0">
+        <attvalues>
+          <attvalue for="4" value="前身与后继关系&#10;所在国家&#10;国家与政权" />
+          <attvalue for="5" value="1,4,5" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="帝国主义" id="8" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="被侵略与侵略关系" />
+          <attvalue for="5" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="中华民族" id="9" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="国家与民族&#10;国家与民族关系" />
+          <attvalue for="5" value="1,8" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="中国人民" id="10" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="国家与人民关系&#10;国民与国家的关系" />
+          <attvalue for="5" value="1,2" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="新民主主义革命" id="11" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="发生地&#10;进行" />
+          <attvalue for="5" value="2,7" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="社会主义基本制度" id="12" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="制度建立" />
+          <attvalue for="5" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="马克思主义" id="13" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="选择" />
+          <attvalue for="5" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="社会主义道路" id="14" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="选择" />
+          <attvalue for="5" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="资产阶级共和国" id="15" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="取代" />
+          <attvalue for="5" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="人民共和国" id="16" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="建立" />
+          <attvalue for="5" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="外国资本－帝国主义" id="17" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="反抗" />
+          <attvalue for="5" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="中国封建势力" id="18" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="反抗" />
+          <attvalue for="5" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="红色政权" id="19" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="建立" />
+          <attvalue for="5" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="新时代中国特色社会主义" id="20" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="发展" />
+          <attvalue for="5" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="毛泽东思想" id="21" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="贯彻" />
+          <attvalue for="5" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="邓小平理论" id="22" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="贯彻" />
+          <attvalue for="5" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="“三个代表”重要思想" id="23" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="贯彻" />
+          <attvalue for="5" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="科学发展观" id="24" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="贯彻" />
+          <attvalue for="5" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="黄河流域" id="25" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="文明发源地" />
+          <attvalue for="5" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="长江流域" id="26" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="文明发源地" />
+          <attvalue for="5" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="黄帝" id="27" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="始祖" />
+          <attvalue for="5" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="炎帝" id="28" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="始祖" />
+          <attvalue for="5" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="尧" id="29" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="古代帝王" />
+          <attvalue for="5" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="舜" id="30" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="古代帝王" />
+          <attvalue for="5" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="禹" id="31" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="古代帝王及治水英雄" />
+          <attvalue for="5" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="秦始皇" id="32" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="统一多民族国家的建立者" />
+          <attvalue for="5" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="东印度公司" id="33" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="走私鸦片、建议发动战争" />
+          <attvalue for="5" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="林则徐" id="34" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="钦差大臣，销毁鸦片" />
+          <attvalue for="5" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="英国侵华舰队" id="35" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="侵略与被侵略" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="美国" id="36" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="被签订不平等条约国与签订国关系" />
+          <attvalue for="5" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="法国" id="37" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="被签订不平等条约国与签订国关系" />
+          <attvalue for="5" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="资本－帝国主义" id="38" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="被侵略与侵略的关系&#10;被侵略" />
+          <attvalue for="5" value="16,14" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="封建势力" id="39" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="内部压迫" />
+          <attvalue for="5" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="地主阶级" id="40" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="被统治" />
+          <attvalue for="5" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="地主" id="41" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="存在封建生产关系" />
+          <attvalue for="5" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="农民" id="42" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="被地主剥削" />
+          <attvalue for="5" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="民族资本主义经济" id="43" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="新兴经济形式" />
+          <attvalue for="5" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="官僚资本" id="44" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="受外国资本支配" />
+          <attvalue for="5" value="14" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="外国侵略者" id="45" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="侵略" />
+          <attvalue for="5" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="中国" target="俄国" id="46" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="利用英法发动战争侵占领土" />
+          <attvalue for="5" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="中国共产党" target="共产国际" id="47" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="帮助建立关系" />
+          <attvalue for="5" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="中国共产党" target="中国人民" id="48" weight="4.0">
+        <attvalues>
+          <attvalue for="4" value="领导与被领导&#10;领导者&#10;领导&#10;领导人民" />
+          <attvalue for="5" value="5,3,4,6" />
+        </attvalues>
+      </edge>
+      <edge source="中国共产党" target="中华民族" id="49" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="领导与被领导" />
+          <attvalue for="5" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="中国共产党" target="中华人民共和国" id="50" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="执政党" />
+          <attvalue for="5" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="中国共产党" target="毛泽东" id="51" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="主要代表" />
+          <attvalue for="5" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="中国共产党" target="新时代中国特色社会主义" id="52" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="领导与创造" />
+          <attvalue for="5" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="英国" target="《南京条约》" id="53" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="签订双方" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="英国" target="欧洲" id="54" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="地理位置" />
+          <attvalue for="5" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="英国" target="伦敦" id="55" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="城市与国家" />
+          <attvalue for="5" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="英国" target="曼彻斯特" id="56" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="城市与国家" />
+          <attvalue for="5" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="英国" target="林德赛" id="57" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="雇佣关系" />
+          <attvalue for="5" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="英国" target="清政府" id="58" weight="3.0">
+        <attvalues>
+          <attvalue for="4" value="强迫签订《南京条约》&#10;不平等条约的签订方&#10;鸦片战争对手及谈判对象" />
+          <attvalue for="5" value="17,12,13" />
+        </attvalues>
+      </edge>
+      <edge source="英国" target="《虎门条约》" id="59" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="签订对方" />
+          <attvalue for="5" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="中国人民" target="中国近现代史" id="60" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="主体" />
+          <attvalue for="5" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="中国人民" target="中华民族" id="61" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="一部分与整体的关系" />
+          <attvalue for="5" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="中国人民" target="五四运动" id="62" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="参与并推动" />
+          <attvalue for="5" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="中国人民" target="帝国主义" id="63" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="受压迫与压迫者" />
+          <attvalue for="5" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="中国人民" target="封建主义" id="64" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="受压迫与压迫者" />
+          <attvalue for="5" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="中国人民" target="官僚资本主义" id="65" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="受压迫与压迫者" />
+          <attvalue for="5" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="中国人民" target="北洋军阀" id="66" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="推翻其统治" />
+          <attvalue for="5" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="中国人民" target="国民党统治集团" id="67" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="推翻其统治" />
+          <attvalue for="5" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="中国人民" target="某些中间派别或中间人士" id="68" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="未得到赞同" />
+          <attvalue for="5" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="中国人民" target="中华人民共和国" id="69" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="建立者" />
+          <attvalue for="5" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="中国人民" target="毛泽东" id="70" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="领导者" />
+          <attvalue for="5" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="中国人民" target="新时代中国特色社会主义" id="71" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="参与者与受益者" />
+          <attvalue for="5" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="中国人民" target="外国侵略者" id="72" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="压迫" />
+          <attvalue for="5" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="中国近现代史" target="大学生" id="73" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="学习者与继承者" />
+          <attvalue for="5" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="中华民族" target="资本－帝国主义" id="74" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="主要矛盾双方" />
+          <attvalue for="5" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="农民阶级" target="地主阶级" id="75" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="矛盾双方&#10;阶级矛盾关系" />
+          <attvalue for="5" value="16,1" />
+        </attvalues>
+      </edge>
+      <edge source="农民阶级" target="工人阶级" id="76" weight="3.0">
+        <attvalues>
+          <attvalue for="4" value="联合斗争关系&#10;与广大受压迫农民有着天然联系&#10;农民破产失业后可能成为产业工人的后备军" />
+          <attvalue for="5" value="15,1" />
+        </attvalues>
+      </edge>
+      <edge source="农民阶级" target="城居地主" id="77" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="地主与农民的社会关系" />
+          <attvalue for="5" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="农民阶级" target="中国资产阶级" id="78" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="资产阶级与农民阶级在社会经济地位上的对立" />
+          <attvalue for="5" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="农民阶级" target="外国资本主义" id="79" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="受到外国资本主义的剥削与压迫" />
+          <attvalue for="5" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="农民阶级" target="本国封建主义" id="80" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="受到本国封建主义的剥削与压迫" />
+          <attvalue for="5" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="农民阶级" target="清政府" id="81" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="起义与镇压的关系" />
+          <attvalue for="5" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="工人阶级" target="地主阶级" id="82" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="社会地位变化关系" />
+          <attvalue for="5" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="工人阶级" target="资产阶级" id="83" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="阶级矛盾与合作关系" />
+          <attvalue for="5" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="工人阶级" target="小资产阶级" id="84" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="联合斗争关系" />
+          <attvalue for="5" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="工人阶级" target="外国资本主义" id="85" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="深受外国资本主义的剥削与压迫" />
+          <attvalue for="5" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="工人阶级" target="本国封建主义" id="86" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="深受本国封建主义的剥削与压迫" />
+          <attvalue for="5" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="资产阶级" target="地主阶级" id="87" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="矛盾双方" />
+          <attvalue for="5" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="资产阶级" target="无产阶级" id="88" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="矛盾双方" />
+          <attvalue for="5" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="地主阶级" target="清政府" id="89" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="统治与被统治的关系" />
+          <attvalue for="5" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="《毛泽东文集》" target="人民出版社" id="90" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="出版关系" />
+          <attvalue for="5" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="共产国际" target="1919年3月" id="91" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="成立时间" />
+          <attvalue for="5" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="俄国社会主义革命" target="马克思列宁主义" id="92" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="传播起源" />
+          <attvalue for="5" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="封建主义" target="人民大众" id="93" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="矛盾双方" />
+          <attvalue for="5" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="秦始皇" target="中国封建社会" id="94" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="建立者与社会" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="中国封建社会" target="农民" id="95" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="统治者与被统治者" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="中国封建社会" target="儒家" id="96" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="正统思想与社会" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="中国封建社会" target="地主" id="97" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="社会阶层关系" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="中国封建社会" target="商人" id="98" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="社会阶层关系" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="中国封建社会" target="高利贷者" id="99" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="社会阶层关系" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="中国封建社会" target="康熙" id="100" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="统治者与社会" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="中国封建社会" target="雍正" id="101" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="统治者与社会" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="中国封建社会" target="乾隆" id="102" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="统治者与社会" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="中国封建社会" target="嘉庆" id="103" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="统治者与社会" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="中国封建社会" target="道光" id="104" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="统治者与社会" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="中国封建社会" target="汉武帝" id="105" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="统治者与政策制定者" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="中国封建社会" target="文景之治" id="106" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="历史时期与社会" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="中国封建社会" target="贞观之治" id="107" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="历史时期与社会" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="中国封建社会" target="开元盛世" id="108" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="历史时期与社会" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="中国封建社会" target="康乾盛世" id="109" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="历史时期与社会" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="和珅" target="乾隆" id="110" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="君臣" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="琦善" target="道光" id="111" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="君臣" />
+          <attvalue for="5" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="琦善" target="清" id="112" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="官员" />
+          <attvalue for="5" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="琦善" target="道光帝" id="113" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="派遣谈判" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="清" target="广州" id="114" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="通商口岸" />
+          <attvalue for="5" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="清" target="漳州" id="115" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="通商口岸" />
+          <attvalue for="5" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="清" target="宁波" id="116" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="通商口岸" />
+          <attvalue for="5" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="清" target="连云港" id="117" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="通商口岸附近地点" />
+          <attvalue for="5" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="欧洲" target="美国" id="118" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="地理位置，受欧洲影响" />
+          <attvalue for="5" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="欧洲" target="法国" id="119" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="地理位置，受欧洲影响" />
+          <attvalue for="5" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="美国" target="清政府" id="120" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="不平等条约的签订方" />
+          <attvalue for="5" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="美国" target="《望厦条约》" id="121" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="签订对方" />
+          <attvalue for="5" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="法国" target="清政府" id="122" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="不平等条约的签订方" />
+          <attvalue for="5" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="法国" target="《黄埔条约》" id="123" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="签订对方" />
+          <attvalue for="5" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="林则徐" target="道光帝" id="124" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="撤职查办" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="东印度公司" target="鸦片战争" id="125" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="参与战争" />
+          <attvalue for="5" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="林德赛" target="巴麦斯顿子爵" id="126" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="致函建议" />
+          <attvalue for="5" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="英国国会" target="英国侵华舰队" id="127" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="决策与执行" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="英国侵华舰队" target="珠江入海口" id="128" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="封锁" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="英国侵华舰队" target="广东海面" id="129" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="活动区域" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="英国侵华舰队" target="厦门" id="130" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="攻击目标" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="英国侵华舰队" target="浙江" id="131" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="攻击目标" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="英国侵华舰队" target="定海" id="132" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="攻陷地点" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="英国侵华舰队" target="天津海口" id="133" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="到达地点" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="英国侵华舰队" target="大角、沙角炮台" id="134" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="强占" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="英国侵华舰队" target="香港" id="135" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="强占" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="英国侵华舰队" target="虎门炮台" id="136" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="猛攻并沦陷" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="英国侵华舰队" target="关天培" id="137" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="顽强抵抗" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="英国侵华舰队" target="各省军队" id="138" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="作战" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="英国侵华舰队" target="浙江海防重镇乍浦" id="139" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="攻陷" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="英国侵华舰队" target="吴凇炮台" id="140" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="猛攻" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="英国侵华舰队" target="陈化成" id="141" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="顽强抵抗" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="英国侵华舰队" target="南京" id="142" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="到达并迫使接受要求" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="英国侵华舰队" target="广东" id="143" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="初期活动及谈判地点" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="奕山" target="道光帝" id="144" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="任命靖逆将军" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="奕山" target="俄国" id="145" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="签订条约" />
+          <attvalue for="5" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="奕经" target="道光帝" id="146" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="派遣扬威将军" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="耆英" target="道光帝" id="147" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="派遣议和" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="耆英" target="伊里布" id="148" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="一同签订条约" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="清政府" target="广东" id="149" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="执政及谈判地点" />
+          <attvalue for="5" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="清政府" target="《虎门条约》" id="150" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="签订方" />
+          <attvalue for="5" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="清政府" target="《望厦条约》" id="151" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="签订方" />
+          <attvalue for="5" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="清政府" target="《黄埔条约》" id="152" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="签订方" />
+          <attvalue for="5" value="13" />
+        </attvalues>
+      </edge>
+      <edge source="清政府" target="资本－帝国主义" id="153" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="侵略与被侵略，但有时结盟的关系" />
+          <attvalue for="5" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="清政府" target="太平天国" id="154" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="镇压&#10;起义与镇压的关系" />
+          <attvalue for="5" value="16,17" />
+        </attvalues>
+      </edge>
+      <edge source="清政府" target="义和团" id="155" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="复杂关系，既有合作也有冲突" />
+          <attvalue for="5" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="清政府" target="外国侵略者" id="156" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="合作" />
+          <attvalue for="5" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="清政府" target="葡萄牙" id="157" weight="2.0">
+        <attvalues>
+          <attvalue for="4" value="订立条约&#10;强迫订立《中葡和好通商条约》" />
+          <attvalue for="5" value="17,18" />
+        </attvalues>
+      </edge>
+      <edge source="清政府" target="《中葡和好通商条约》" id="158" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="订立" />
+          <attvalue for="5" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="清政府" target="《嗳浑条约》" id="159" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="签订" />
+          <attvalue for="5" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="清政府" target="《北京条约》" id="160" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="签订" />
+          <attvalue for="5" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="清政府" target="《勘分西北界约记》" id="161" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="签订" />
+          <attvalue for="5" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="清政府" target="《改订伊犁条约》" id="162" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="签订" />
+          <attvalue for="5" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="资本－帝国主义" target="太平天国" id="163" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="无直接关系，但受到外国势力影响" />
+          <attvalue for="5" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="资本－帝国主义" target="义和团" id="164" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="反抗与被反抗的关系" />
+          <attvalue for="5" value="16" />
+        </attvalues>
+      </edge>
+      <edge source="官僚买办资本家" target="民族资本家" id="165" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="同属于中国资产阶级但经营方式和地位有所不同" />
+          <attvalue for="5" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="官僚买办资本家" target="外国资本主义" id="166" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="与外国资本有紧密联系" />
+          <attvalue for="5" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="民族资本家" target="外国资本主义" id="167" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="既受到压迫又与之外国资本主义有依赖关系" />
+          <attvalue for="5" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="民族资本家" target="本国封建主义" id="168" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="既受到压迫又与之本国封建主义有依赖关系" />
+          <attvalue for="5" value="15" />
+        </attvalues>
+      </edge>
+      <edge source="太平天国" target="外国侵略者" id="169" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="镇压" />
+          <attvalue for="5" value="17" />
+        </attvalues>
+      </edge>
+      <edge source="葡萄牙" target="澳门" id="170" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="管理" />
+          <attvalue for="5" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="葡萄牙" target="《中葡和好通商条约》" id="171" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="订立" />
+          <attvalue for="5" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="俄国" target="黑龙江" id="172" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="割让领土" />
+          <attvalue for="5" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="俄国" target="乌苏里江" id="173" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="割让领土" />
+          <attvalue for="5" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="俄国" target="《嗳浑条约》" id="174" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="签订" />
+          <attvalue for="5" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="俄国" target="《北京条约》" id="175" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="签订" />
+          <attvalue for="5" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="《勘分西北界约记》" target="（未明确提及）" id="176" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="签订" />
+          <attvalue for="5" value="18" />
+        </attvalues>
+      </edge>
+      <edge source="《改订伊犁条约》" target="（未明确提及）" id="177" weight="1.0">
+        <attvalues>
+          <attvalue for="4" value="签订" />
+          <attvalue for="5" value="18" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

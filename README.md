@@ -1,212 +1,87 @@
-# LLM 技术学习与实践项目
-
-> 涵盖 GraphRAG、知识图谱问答、LangChain 文本处理等多个方向的 LLM 应用实践项目集
-
----
-
-## 📋 项目概述
-
-本项目集是关于大语言模型（LLM）及相关技术的学习与实践，主要探索 GraphRAG、知识图谱问答、文本处理等应用场景。
-
----
-
-## 📁 主要模块
-
-### 1. QASystemOnMedicalKG - 医疗知识图谱问答系统
-
-从零构建以疾病为中心的医疗知识图谱，并实现自动问答服务。
-
-**项目规模**
-- 实体：7类约 4.4 万个（疾病、症状、药品、食物等）
-- 关系：11类约 30 万条
-
-**技术栈**
-- Neo4j 图数据库 + 规则匹配 + Cypher 查询
-
-**支持问答类型（18种）**
-| 类型 | 说明 | 示例 |
-|------|------|------|
-| disease_symptom | 疾病症状 | 乳腺癌的症状有哪些？ |
-| symptom_disease | 症状找疾病 | 最近老流鼻涕怎么办？ |
-| disease_cause | 疾病病因 | 为什么有的人会失眠？ |
-| disease_drug | 疾病用药 | 肝病要吃啥药？ |
-| disease_check | 检查项目 | 脑膜炎怎么才能查出来？ |
-| ... | 更多 | ... |
-
-**核心文件**
-- `build_medicalgraph.py` - 知识图谱构建与入库
-- `chatbot_graph.py` - 问答程序主入口
-- `question_classifier.py` - 问句类型分类
-- `question_parser.py` - 问句解析
-
-**运行方式**
-```bash
-# 1. 导入知识图谱数据（需要几小时）
-python build_medicalgraph.py
-
-# 2. 启动问答系统
-python chatbot_graph.py
-```
-
----
-
-### 2. GraphRag - 图检索增强生成
-
-结合知识图谱的 RAG 实现，用于特定领域知识问答。
-
-**技术特点**
-- LLM 实体提取 + Neo4j 知识检索
-- 支持多轮对话上下文管理
-- 应用场景：近代史知识问答
-
-**核心文件**
-- `GraphRag.py` - GraphRAG 主程序
-- `main.py` - 主逻辑与交互
-- `graph2neo4j.py` - 图数据导入 Neo4j
-- `neo4j2json*.py` - 数据导出工具
-
----
-
-### 3. LangChain 文本处理
-
-使用 LangChain 框架进行文本分割与处理。
-
-**功能**
-- 长文本切分为小块（chunk_size=100, chunk_overlap=10）
-- 支持递归字符分割器
-- 输出 CSV 格式分割结果
-
-**核心文件**
-- `LangChain_spilt.py` - 文本分割工具
-- `LangChain_test.py` - 测试脚本
-
----
-
-### 4. ChatGLM - 智谱AI对话
-
-基于智谱AI的对话功能实现。
-
-**核心文件**
-- `chat_ZhipuAi.py` - 智谱AI API 调用
-
----
-
-### 5. Neo4j 集成
-
-Neo4j 图数据库的连接与操作。
-
-**核心文件**
-- `ernie&neo4j.py` - 文心一言 + Neo4j 知识问答
-- `neo4j_link.py` - 数据库连接管理
-- `clear_neo4j.py` - 数据清理工具
-
----
-
-### 6. 数据库
-
-存放原始文本数据，用于知识图谱构建。
-
-**文件**
-- `近代史.txt` - 近代史知识文本
-- `data_jindaishi.txt` - 结构化数据
-
----
-
-## 🔧 技术栈
-
-| 技术 | 用途 |
-|------|------|
-| **LangChain** | 文本处理、分割、链式调用 |
-| **Neo4j** | 图数据库存储知识图谱 |
-| **erniebot** | 百度文心一言 API |
-| **zhipuai** | 智谱AI API |
-| **tiktoken** | Token 分词与计数 |
-| **networkx** | 图数据结构处理 |
-| **pdfplumber** | PDF 文件解析 |
-| **milvus** | 向量数据库 |
-| **pandas** | 数据处理 |
-
----
-
-## 💡 学习要点
-
-1. **知识图谱构建流程**
-   ```
-   数据采集 → 实体/关系抽取 → Schema 设计 → Neo4j 存储 → 应用查询
-   ```
-
-2. **RAG 实现模式**
-   - 向量检索 + LLM 生成（传统 RAG）
-   - 图检索 + LLM 生成（GraphRAG）
-   - 混合检索模式
-
-3. **问答系统架构**
-   ```
-   用户提问 → 实体提取 → 图谱查询 → 答案生成 → 润色输出
-   ```
-
-4. **文本处理最佳实践**
-   - 合理设置 chunk_size 与 overlap
-   - 保留上下文语义完整性
-
----
-
-## 📦 依赖安装
-
-```bash
-pip install -r requirements.txt
-```
-
-主要依赖：
-```
-tiktoken          # Token 分词
-networkx          # 图处理
-erniebot          # 百度文心一言
-langchain         # LangChain 框架
-pandas            # 数据处理
-neo4j             # Neo4j 驱动
-tqdm              # 进度条
-zhipuai           # 智谱AI
-pdfplumber        # PDF 解析
-milvus[client]    # 向量数据库
-```
-
----
-
-## 🚀 快速开始
-
-### 医疗问答系统
-
-```bash
-cd QASystemOnMedicalKG-master
-python build_medicalgraph.py  # 构建图谱
-python chatbot_graph.py       # 启动问答
-```
-
-### GraphRag
-
-```bash
-cd GraphRag
-python GraphRag.py            # 运行 GraphRag
-```
-
-### 文本分割
-
-```bash
-python LangChain_spilt.py     # 处理 input/textbook.txt
-```
-
----
-
-## 📄 许可证
-
-本项目数据仅供学习交流使用，请勿商用。医疗问答系统数据来源自垂直医药网站，如涉及版权问题请联系删除。
-
----
-
-## 🔗 参考资源
-
-- [QASystemOnMedicalKG 原项目](https://github.com/liuhuanyong/QABasedOnMedicalKnowledgeGraph)
-- [LangChain 官方文档](https://python.langchain.com/)
-- [Neo4j 文档](https://neo4j.com/docs/)
-
+# 目录功能介绍
+- 数据库制作
+   读取pdf格式的原始数据，并保存为txt文件
+- GraphRag
+   - main.py
+      功能：读取txt文件, 并生产关系图 graph.gexf
+      关系图：包含主体、[主体描述]、主体间的关系
+      实现原理：
+         1. 文本分割
+         2. LLM 实体/关系提取
+         3. 图构建
+   - graph2neo4j.py
+      功能：读取graph.gexf，并上传neo4j数据库
+   - GraphRag.py
+      功能：用户提问 -> LLM 提取实体 -> Neo4j 图谱检索(主要参考[主体描述] 与 相邻节点) -> LLM 生成答案
+
+# 关系提取 Prompt设计
+- 关键设计点：
+
+设计点	说明
+两阶段提取	先提取实体，再从实体中提取关系，减少误判
+结构化输出	使用分隔符便于程序解析
+关系强度	权重字段，用于后续图分析
+Few-shot 示例	2 个示例提高准确性
+
+
+## 目标
+根据给定的文档提取
+
+## 步骤
+1. 识别出所有的实体。针对每个实体，提取以下信息：
+- entity_name:实体的名称，首字母大写
+- entity_type:以下类型之一：[{entity_types}]
+- entity_description:对实体的属性和活动进行详细的描述
+将每个实体格式化为("entity"{tuple_delimiter}<entity_name>{tuple_delimiter}<entity_type>{tuple_delimiter}<entity_description>)
+
+2.从步骤1识别的实体中，找出所有明显相关的(source_entity, target_entity)对。
+对于每对相关的实体，提取以下信息：
+- source_entity: 步骤1识别的源实体名称
+- target_entity: 步骤1识别的目标实体名称
+- relationship_description: 源实体和目标实体之间的关系
+- relationship_strength: 一个数值分数，表示源实体和目标实体之间关系的强度
+将每个关系对格式化为("relationship"{tuple_delimiter}<source_entity>{tuple_delimiter}<target_entity>{tuple_delimiter}<relation_description>{tuple_delimiter}<relationship_strength>)
+
+3.返回步骤1和步骤2中识别的所有实体和关系的单个列表，使用{record_delimiter}作为列表分隔符。
+
+4.完成后，输出{completion_delimiter}
+
+######################
+-输出示例
+######################
+示例1：
+Entity_types: 组织，人物
+Text: 联储中央机构计划于周一和周四召开会议，该机构计划于太平洋夏令时周四下午 1:30 发布其最新的政策决定，随后将举行新闻发布会，中央机构主席马丁·史密斯将回答媒体提问。投资者预计市场战略委员会将基准利率维持在3.5%-3.75%的范围内。
+######################
+Output:
+("entity"{tuple_delimiter}联储中央机构{tuple_delimiter}组织{tuple_delimiter}联储中央机构计划于周一和周四召开会议，它将在周一和周四设定利率")
+{record_delimiter}
+("entity"{tuple_delimiter}马丁·史密斯{tuple_delimiter}人物{tuple_delimiter}马丁·史密斯是联储中央机构的主席")
+{record_delimiter}
+("relationship"{tuple_delimiter}联储中央机构{tuple_delimiter}马丁·史密斯{tuple_delimiter}主席{tuple_delimiter}1.0)
+{completion_delimiter}
+
+######################
+示例2：
+Entity_types: 组织，地点
+Text: 
+当地时间7月31日周三，由于技术故障，瑞士SIX证券交易所 SIX Swiss Exchange 两次暂停交易。
+公开资料显示，SIX Swiss Exchange，总部位于瑞士，是欧洲重要的金融市场之一，以其全面的服务范围和高流动性而著称。该交易所由多个地方交易所合并而成，现已成为交易股票、债券、交易所交易基金（ETF）、结构化产品以及加密产品的重要中心。SIX Swiss Exchange拥有超过60000种证券产品，包括一些最大的欧洲蓝筹股和丰富的加密货币产品。
+######################
+Output:
+("entity"{tuple_delimiter}SIX Swiss Exchange{tuple_delimiter}组织{tuple_delimiter}Swiss Exchange 是欧洲重要的金融市场之一，以其全面的服务范围和高流动性而著称。该交易所由多个地方交易所合并而成，现已成为交易股票、债券、交易所交易基金（ETF）、结构化产品以及加密产品的重要中心。")
+{record_delimiter}
+("entity"{tuple_delimiter}瑞士{tuple_delimiter}地点{tuple_delimiter}Swiss Exchange 是欧洲重要的金融市场之一，以其全面的服务范围和高流动性而著称。该交易所由多个地方交易所合并而成，现已成为交易股票、债券、交易所交易基金（ETF）、结构化产品以及加密产品的重要中心。")
+{record_delimiter}
+("relationship"{tuple_delimiter}SIX Swiss Exchange{tuple_delimiter}欧洲{tuple_delimiter}地址{tuple_delimiter}1.0)
+
+######################
+你需要提取的数据
+######################
+Entity_types: {entity_types}
+Text: {input_text}
+######################
+Output:
+"""
+
+         

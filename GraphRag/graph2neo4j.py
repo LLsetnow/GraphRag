@@ -129,9 +129,9 @@ def upload_gexf_to_neo4j(graph, subject, id):
 
 
 # Neo4j 连接信息
-uri = "neo4j+s://4b4caece.databases.neo4j.io:7687"
-user = "neo4j"
-password = "uKmBry2hbtVuYriIKM-8Ob-PK86S0nRff9VKCN6KCDk"
+uri = "neo4j+s://7655ff62.databases.neo4j.io"
+user = "7655ff62"
+password = "jMiQ1jwJT2C_nNjTlymSFQX8snFH6146MsGEyEJV9TA"
 
 # 创建数据库驱动器
 driver = GraphDatabase.driver(uri, auth=(user, password))

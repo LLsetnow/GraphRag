@@ -123,7 +123,7 @@ from neo4j import GraphDatabase
 
 # ========== DeepSeek 配置 ==========
 client = OpenAI(
-    api_key="sk-da8a9ac17ac14615910cb7aa3b5aba62",
+    api_key="your_api_key",
     base_url="https://api.deepseek.com"
 )
 model = "deepseek-v4-flash"
